@@ -40,10 +40,10 @@
             // button5
             // 
             button5.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            button5.Location = new Point(65, 313);
-            button5.Margin = new Padding(4, 3, 4, 3);
+            button5.Location = new Point(74, 417);
+            button5.Margin = new Padding(5, 4, 5, 4);
             button5.Name = "button5";
-            button5.Size = new Size(74, 29);
+            button5.Size = new Size(85, 39);
             button5.TabIndex = 25;
             button5.Text = "Delete";
             button5.UseVisualStyleBackColor = true;
@@ -52,10 +52,10 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            button4.Location = new Point(123, 256);
-            button4.Margin = new Padding(4, 3, 4, 3);
+            button4.Location = new Point(141, 341);
+            button4.Margin = new Padding(5, 4, 5, 4);
             button4.Name = "button4";
-            button4.Size = new Size(74, 29);
+            button4.Size = new Size(85, 39);
             button4.TabIndex = 24;
             button4.Text = "Update";
             button4.UseVisualStyleBackColor = true;
@@ -63,26 +63,26 @@
             // 
             // email
             // 
-            email.Location = new Point(87, 146);
-            email.Margin = new Padding(4, 3, 4, 3);
+            email.Location = new Point(99, 195);
+            email.Margin = new Padding(5, 4, 5, 4);
             email.Name = "email";
-            email.Size = new Size(125, 23);
+            email.Size = new Size(142, 27);
             email.TabIndex = 22;
             // 
             // last_name
             // 
-            last_name.Location = new Point(86, 91);
-            last_name.Margin = new Padding(4, 3, 4, 3);
+            last_name.Location = new Point(98, 121);
+            last_name.Margin = new Padding(5, 4, 5, 4);
             last_name.Name = "last_name";
-            last_name.Size = new Size(125, 23);
+            last_name.Size = new Size(142, 27);
             last_name.TabIndex = 21;
             // 
             // first_name
             // 
-            first_name.Location = new Point(87, 35);
-            first_name.Margin = new Padding(4, 3, 4, 3);
+            first_name.Location = new Point(99, 47);
+            first_name.Margin = new Padding(5, 4, 5, 4);
             first_name.Name = "first_name";
-            first_name.Size = new Size(125, 23);
+            first_name.Size = new Size(142, 27);
             first_name.TabIndex = 20;
             // 
             // label4
@@ -90,10 +90,10 @@
             label4.AutoSize = true;
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            label4.Location = new Point(9, 210);
-            label4.Margin = new Padding(4, 0, 4, 0);
+            label4.Location = new Point(10, 280);
+            label4.Margin = new Padding(5, 0, 5, 0);
             label4.Name = "label4";
-            label4.Size = new Size(49, 15);
+            label4.Size = new Size(60, 20);
             label4.TabIndex = 19;
             label4.Text = "Gender";
             // 
@@ -102,10 +102,10 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            label3.Location = new Point(9, 154);
-            label3.Margin = new Padding(4, 0, 4, 0);
+            label3.Location = new Point(10, 205);
+            label3.Margin = new Padding(5, 0, 5, 0);
             label3.Name = "label3";
-            label3.Size = new Size(41, 15);
+            label3.Size = new Size(53, 20);
             label3.TabIndex = 18;
             label3.Text = "E-mail";
             // 
@@ -114,10 +114,10 @@
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            label2.Location = new Point(9, 99);
-            label2.Margin = new Padding(4, 0, 4, 0);
+            label2.Location = new Point(10, 132);
+            label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
-            label2.Size = new Size(65, 15);
+            label2.Size = new Size(84, 20);
             label2.TabIndex = 17;
             label2.Text = "Last Name";
             // 
@@ -126,20 +126,20 @@
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            label1.Location = new Point(9, 43);
-            label1.Margin = new Padding(4, 0, 4, 0);
+            label1.Location = new Point(10, 57);
+            label1.Margin = new Padding(5, 0, 5, 0);
             label1.Name = "label1";
-            label1.Size = new Size(67, 15);
+            label1.Size = new Size(86, 20);
             label1.TabIndex = 16;
             label1.Text = "First Name";
             // 
             // Add
             // 
             Add.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            Add.Location = new Point(15, 256);
-            Add.Margin = new Padding(4, 3, 4, 3);
+            Add.Location = new Point(17, 341);
+            Add.Margin = new Padding(5, 4, 5, 4);
             Add.Name = "Add";
-            Add.Size = new Size(74, 29);
+            Add.Size = new Size(85, 39);
             Add.TabIndex = 15;
             Add.Text = "Add";
             Add.UseVisualStyleBackColor = true;
@@ -148,27 +148,27 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(220, 10);
-            dataGridView1.Margin = new Padding(4, 3, 4, 3);
+            dataGridView1.Location = new Point(251, 13);
+            dataGridView1.Margin = new Padding(5, 4, 5, 4);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(529, 358);
+            dataGridView1.Size = new Size(605, 477);
             dataGridView1.TabIndex = 26;
             // 
             // gender
             // 
-            gender.Location = new Point(86, 193);
-            gender.Margin = new Padding(4, 3, 4, 3);
+            gender.Location = new Point(99, 277);
+            gender.Margin = new Padding(5, 4, 5, 4);
             gender.Name = "gender";
-            gender.Size = new Size(125, 23);
+            gender.Size = new Size(142, 27);
             gender.TabIndex = 23;
             // 
             // Editform
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Screenshot_2025_02_23_0752452;
-            ClientSize = new Size(759, 377);
+            ClientSize = new Size(867, 503);
             Controls.Add(dataGridView1);
             Controls.Add(button5);
             Controls.Add(button4);
@@ -181,7 +181,6 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(Add);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "Editform";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
