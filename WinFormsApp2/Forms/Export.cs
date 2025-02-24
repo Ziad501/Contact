@@ -6,8 +6,8 @@ using WinFormsApp2.DAL.Entities;
 
 namespace WinFormsApp2.Forms
 {
-	public partial class Export : Form
-	{
+    public partial class Export : Form
+    {
         private readonly EmployeeService _employeeService;
 
         public Export()
@@ -71,7 +71,7 @@ namespace WinFormsApp2.Forms
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click_1(object sender, EventArgs e)
         {
             using (var saveFileDialog = new SaveFileDialog())
             {
@@ -97,5 +97,6 @@ namespace WinFormsApp2.Forms
                 }
             }
         }
+
     }
 }
